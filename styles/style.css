@@ -66,12 +66,10 @@ body {
 @media only screen and (max-width: 600px) {
     .flip-box {
         width: 100%;
-        margin: 5px; /* Adjust margin for smaller screens */
+        margin: 5px; 
     }
 
     .flip-box-back p {
-        font-size: 14px; /* Adjust font size for smaller screens */
+        font-size: 14px; 
     }
-
-    /* Additional mobile-friendly adjustments as needed */
 }
