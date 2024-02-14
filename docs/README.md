@@ -16,7 +16,7 @@ This project is a simple farewell messages website created to bid farewell to a 
 ### Installation
 1. Clone the repository:
 
-``` 
+```bash 
 git clone https://github.com/CalebTPK/Farewell-Messages.git
 ```
 
