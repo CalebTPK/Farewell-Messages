@@ -28,10 +28,10 @@ git clone https://github.com/CalebTPK/Farewell-Messages.git
 
 ### Contributors
 Caleb Kabir
-Addressfinder + Abletech, Ablefinders, team.
+<br>Addressfinder + Abletech, Ablefinders, team.
 
 ### Acknowledgments
-Special thanks to [Colleague's Name] for their contributions to the team and best wishes for their future endeavors!
+Special thanks to Leigh for their contributions to the team and best wishes for their future endeavors!
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CalebTPK/Farewell-Messages/blob/main/docs/LICENSE) file for details.
